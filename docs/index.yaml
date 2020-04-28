@@ -3,12 +3,12 @@ entries:
   vhi:
   - apiVersion: v2
     appVersion: 1.0.0-SNAPSHOT
-    created: "2020-04-28T11:30:08.259514074+03:00"
+    created: "2020-04-28T11:36:36.565860725+03:00"
     description: A Helm chart for Kubernetes
     digest: 2e8af7ed3850699275a14096f56bfa3f77b4d5571fb29abcce6862c9bc2eb959
     name: vhi
     type: application
     urls:
-    - https://github.com/avpol/test/vhi-0.1.0.tgz
+    - https://avpol.github.io/test/vhi-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-28T11:30:08.258306377+03:00"
+generated: "2020-04-28T11:36:36.565398594+03:00"
